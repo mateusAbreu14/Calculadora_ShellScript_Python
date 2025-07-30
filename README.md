@@ -1,0 +1,2 @@
+# Calculadora.sh
+calculadora executavel
